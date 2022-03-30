@@ -4,4 +4,4 @@ I believe in performance with minimal code. Self-taught programmer
 Platforms: Windows, Linux, Android.  
 Programming: C++, C.  
 Scripting: PHP.  
-Softwares: Visual Studio.  
+Softwares: Visual Studio 2022.  
