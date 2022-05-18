@@ -6,4 +6,4 @@ Programming: C++, C.
 Scripting: PHP.  
 Softwares: Visual Studio 2022.  
 # Contact with me:  
-kronka_vk@vk.com
+boevx@vk.com
